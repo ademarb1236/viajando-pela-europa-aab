@@ -1,7 +1,7 @@
 import React from 'react';
-import { Link } from "react-router-dom";
+//import { Link } from "react-router-dom";
 import "./styles.css";
-import europa1 from "../../assets/Europa1.png";
+//import europa1 from "../../assets/Europa1.png";
 import alemanha1 from "../../assets/Alemanha1.png";
 import austria1 from "../../assets/Austria1.png";
 import belgica1 from "../../assets/Belgica1.png";

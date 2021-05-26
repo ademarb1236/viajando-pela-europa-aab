@@ -1,7 +1,7 @@
 import React from 'react';
-import { Button } from '../node_modules/reactstrap';
+//import { Button } from '../node_modules/reactstrap';
 import Header from './components/Header'
-import logo from './logo.svg';
+//import logo from './logo.svg';
 
 import './App.css';
 
