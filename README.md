@@ -1,3 +1,13 @@
+
+C:\Users\adema\Documents\ReactRedux1\my-app1
+
+https://viajando-pela-europa-aab.netlify.app/
+
+npm install react-dom
+npm install react-router-dom
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

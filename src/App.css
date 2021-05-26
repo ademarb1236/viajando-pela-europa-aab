@@ -1,15 +1,22 @@
-.App {
-  text-align: center;
+
+.europa{
+  background-image: url("./imagens/Europa.png");
+  position:absolute;
+  z-index:1;
+  padding:0;
+  width: 1860px;
+  height: 880px;
+  top: 95px;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 60vmin;
   pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 5s linear;
   }
 }
 
